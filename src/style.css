@@ -302,7 +302,7 @@ input:-webkit-autofill:active  {
 
 @media only screen and (max-width: 900px) {
 	.get-notified__form input[type=text] {
-		width: 80%;
+		width: 70%;
 	}
 }
 
